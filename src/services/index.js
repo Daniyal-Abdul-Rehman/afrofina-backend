@@ -1,0 +1,15 @@
+module.exports.authService = require('./auth.service');
+module.exports.emailService = require('./email.service');
+module.exports.tokenService = require('./token.service');
+module.exports.userService = require('./user.service');
+module.exports.jobService= require('./job.service')
+module.exports.serviceService=require('./service.service')
+module.exports.chatSerivice=require('./chat.service')
+module.exports.assistance=require('./assistance.service')
+module.exports.paymentService=require('./payment.service')
+module.exports.orderService=require('./order.service')
+module.exports.reviewService=require('./review.service')
+module.exports.resolutionService=require('./resolution.service')
+module.exports.bidService=require('./bid.service')
+module.exports.invitationService=require('./invitation.service')
+module.exports.eventService=require('./event.service')

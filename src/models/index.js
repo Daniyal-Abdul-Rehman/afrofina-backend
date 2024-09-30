@@ -1,0 +1,13 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Job = require('./jobs.model')
+module.exports.Service = require('./service.model')
+module.exports.Chat = require('./chat.models')
+module.exports.Assistance = require('./assistance.model')
+module.exports.Payment = require('./payment.model')
+module.exports.Order = require('./order.model')
+module.exports.Review = require('./review.model')
+module.exports.Resolution=require('./resolution.model')
+module.exports.Bid=require('./bid.model')
+module.exports.Event=require('./event.model')
+module.exports.Invitation=('./invitation.model')

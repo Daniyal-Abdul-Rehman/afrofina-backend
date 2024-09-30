@@ -1,0 +1,13 @@
+module.exports.authController = require('./auth.controller');
+module.exports.userController = require('./user.controller');
+module.exports.jobController=require('./job.controller')
+module.exports.serviceController=require('./service.controller')
+module.exports.chatController=require('./chat.controller')
+module.exports.assistanceController=require('./assistance.controller')
+module.exports.paymentController=require('./payment.controller')
+module.exports.orderController=require('./order.controller')
+module.exports.reviewController=require('./review.controller')
+module.exports.resolutionController=require('./resolution.controller')
+module.exports.bidController=require('./bid.controller')
+module.exports.invitationController=require('./invitation.controller')
+module.exports.eventController=require('./event.controller')

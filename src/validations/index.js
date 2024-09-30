@@ -1,0 +1,12 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.jobValidation=require('./job.validation')
+module.exports.serviceValidation=require('./service.validation')
+module.exports.chatValidation=require('./chat.validation')
+module.exports.paymentValidation=require('./payment.validation')
+module.exports.orderValidation=require('./order.validation')
+module.exports.reviewValidation=require('./review.validation')
+module.exports.resolutionValidation=require('./resolution.validation')
+module.exports.bidValidation=require('./bid.validation')
+module.exports.eventValidation=require('./event.validation')
+module.exports.invitationValidation=require('./invitation.validation')
